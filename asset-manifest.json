@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Refan222/task33/static/css/main.9bb3f159.css",
-    "main.js": "/Refan222/task33/static/js/main.95692b83.js",
-    "index.html": "/Refan222/task33/index.html",
-    "main.9bb3f159.css.map": "/Refan222/task33/static/css/main.9bb3f159.css.map",
-    "main.95692b83.js.map": "/Refan222/task33/static/js/main.95692b83.js.map"
+    "main.css": "/task33/static/css/main.9bb3f159.css",
+    "main.js": "/task33/static/js/main.95692b83.js",
+    "index.html": "/task33/index.html",
+    "main.9bb3f159.css.map": "/task33/static/css/main.9bb3f159.css.map",
+    "main.95692b83.js.map": "/task33/static/js/main.95692b83.js.map"
   },
   "entrypoints": [
     "static/css/main.9bb3f159.css",
